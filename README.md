@@ -1,7 +1,7 @@
 # RESTful-API-with-HTTP-and-JavaScript
 
 ### Description 
-This mini project gives you a list of recipes based on your search query. It uses the [Recipe Puppy API](http://www.recipepuppy.com/) to retrive the list of recipes.
+This mini project gives you a list of recipes based on your search query. It uses the [Recipe Puppy API](http://www.recipepuppy.com/) to retrive the list of recipes. This was achieved the taking the course on Coursera.
 
 ### Deployment
 [Here's](https://keenal.github.io/RESTful-API-with-HTTP-and-JavaScript/) the working project. 
